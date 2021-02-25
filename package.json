@@ -1,0 +1,23 @@
+{
+  "name": "outer-css-classname-loader",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": "https://github.com/zlipeng/outer-css-classname-loader.git",
+  "dependencies": {
+    "loader-utils": "^0.2.16",
+    "postcss": "^5.0.6"
+  },
+  "keywords": [
+    "webpack",
+    "webpack-loader",
+    "css",
+    "css-modules"
+  ],
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}
